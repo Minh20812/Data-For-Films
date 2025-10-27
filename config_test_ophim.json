@@ -5,6 +5,16 @@
       "skipStart": 30,
       "skipEnd": 62
     },
+     {
+      "tmdbId": "1086497",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+     {
+      "tmdbId": "1426306",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
     {
       "tmdbId": "285205",
       "skipStart": 900,
@@ -69,6 +79,31 @@
       "tmdbId": "1400782",
       "skipStart": 901,
       "skipEnd": 933
-    }
+    },
+    {
+      "tmdbId": "1517772",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1465549",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1437446",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1404734",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1284120",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
   ]
 }
