@@ -1,0 +1,103 @@
+{
+  "movies": [
+    {
+      "name": "Quái vật: Câu Chuyện Của Ed Gein",
+      "apiUrl": "https://phimapi.com/tmdb/tv/286801",
+      "tmdbId": "286801",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "name": "Bí Mật Triệu Đô",
+      "apiUrl": "https://phimapi.com/tmdb/tv/285205",
+      "tmdbId": "285205",
+      "skipStart": 900,
+      "skipEnd": 932
+    },
+    {
+      "name": "Nguyên Tội Của Takopi",
+      "apiUrl": "https://phimapi.com/tmdb/tv/284445",
+      "tmdbId": "284445",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "name": "Hiện Trường Vụ Án Số 0",
+      "apiUrl": "https://phimapi.com/tmdb/tv/298698",
+      "tmdbId": "298698",
+      "skipStart": 28,
+      "skipEnd": 60
+    },
+    {
+      "name": "Người Phụ Nữ Trong Cabin 10",
+      "apiUrl": "https://phimapi.com/tmdb/movie/1290879",
+      "tmdbId": "1290879",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "name": "Swim To Me",
+      "apiUrl": "https://phimapi.com/tmdb/movie/1484640",
+      "tmdbId": "1484640",
+      "skipStart": 28,
+      "skipEnd": 60
+    },
+    {
+      "name": "Quái Vật Thành Florence",
+      "apiUrl": "https://phimapi.com/tmdb/tv/247756",
+      "tmdbId": "247756",
+      "skipStart": 901,
+      "skipEnd": 933
+    },
+    {
+      "name": "Bậc Thầy Giải Hòa",
+      "apiUrl": "https://phimapi.com/tmdb/tv/286198",
+      "tmdbId": "286198",
+      "skipStart": 28,
+      "skipEnd": 60
+    },
+    {
+      "name": "Tin Tốt Lành",
+      "apiUrl": "https://phimapi.com/tmdb/movie/1296404",
+      "tmdbId": "1296404",
+      "skipStart": 902,
+      "skipEnd": 933
+    },
+    {
+      "name": "Tân Binh",
+      "apiUrl": "https://phimapi.com/tmdb/tv/225647",
+      "tmdbId": "225647",
+      "skipStart": 28,
+      "skipEnd": 60
+    },
+    {
+      "name": "Hồi Hồn Kế",
+      "apiUrl": "https://phimapi.com/tmdb/tv/252135",
+      "tmdbId": "252135",
+      "skipStart": 28,
+      "skipEnd": 60
+    },
+    {
+      "name": "Loài Tê Tê: Hành Trình Của Kulu",
+      "apiUrl": "https://phimapi.com/tmdb/movie/1086637",
+      "tmdbId": "1086637",
+      "skipStart": 902,
+      "skipEnd": 934
+    },
+    {
+      "name": "Thunderbirds: Phi Đội Tinh Nhuệ Của Không Lực Mỹ",
+      "apiUrl": "https://phimapi.com/tmdb/movie/1457515",
+      "tmdbId": "1457515",
+      "skipStart": 28,
+      "skipEnd": 60
+    },
+    {
+      "name": "Người Hàng Xóm Hoàn Hảo",
+      "apiUrl": "https://phimapi.com/tmdb/movie/1400782",
+      "tmdbId": "1400782",
+      "skipStart": 901,
+      "skipEnd": 933
+    }
+  ],
+  "currentMovieIndex": 6
+}
