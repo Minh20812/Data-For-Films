@@ -1,6 +1,5 @@
 {
   "movies": [
-    { "tmdbId": "286801", "skipStart": 30, "skipEnd": 62 },
      {
       "tmdbId": "286801",
       "skipStart": 30,
