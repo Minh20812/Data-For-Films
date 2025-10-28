@@ -2,191 +2,229 @@
   "movies": [
     {
       "tmdbId": "286801",
+      "type": "tv",
       "skipStart": 30,
       "skipEnd": 62
     },
     {
-      "tmdbId": "1086497",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "1426306",
+      "tmdbId": "284445",
+      "type": "tv",
       "skipStart": 30,
       "skipEnd": 62
     },
     {
       "tmdbId": "285205",
+      "type": "tv",
       "skipStart": 900,
       "skipEnd": 932
     },
     {
-      "tmdbId": "284445",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
       "tmdbId": "298698",
-      "skipStart": 28,
-      "skipEnd": 60
-    },
-    {
-      "tmdbId": "1290879",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "1484640",
+      "type": "tv",
       "skipStart": 28,
       "skipEnd": 60
     },
     {
       "tmdbId": "247756",
+      "type": "tv",
       "skipStart": 901,
       "skipEnd": 933
     },
     {
-      "tmdbId": "286198",
-      "skipStart": 28,
-      "skipEnd": 60
-    },
-    {
       "tmdbId": "1296404",
+      "type": "movie",
       "skipStart": 902,
       "skipEnd": 933
     },
     {
-      "tmdbId": "225647",
+      "tmdbId": "1457515",
+      "type": "movie",
       "skipStart": 28,
       "skipEnd": 60
     },
     {
       "tmdbId": "252135",
+      "type": "tv",
       "skipStart": 28,
       "skipEnd": 60
     },
     {
-      "tmdbId": "1086637",
-      "skipStart": 902,
-      "skipEnd": 934
+      "tmdbId": "620249",
+      "type": "movie",
+      "skipStart": 30,
+      "skipEnd": 62
     },
     {
-      "tmdbId": "1457515",
+      "tmdbId": "286198",
+      "type": "tv",
+      "skipStart": 28,
+      "skipEnd": 60
+    },
+    {
+      "tmdbId": "225647",
+      "type": "tv",
       "skipStart": 28,
       "skipEnd": 60
     },
     {
       "tmdbId": "1400782",
+      "type": "movie",
       "skipStart": 901,
       "skipEnd": 933
     },
     {
-      "tmdbId": "1517772",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "1465549",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "1437446",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "1404734",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "1284120",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "620249",
+      "tmdbId": "1290879",
+      "type": "movie",
       "skipStart": 30,
       "skipEnd": 62
     },
     {
       "tmdbId": "15916",
+      "type": "movie",
       "skipStart": 30,
       "skipEnd": 62
     },
     {
-      "tmdbId": "289183",
+      "tmdbId": "1484640",
+      "type": "movie",
+      "skipStart": 28,
+      "skipEnd": 60
+    },
+    {
+      "tmdbId": "1086637",
+      "type": "movie",
+      "skipStart": 902,
+      "skipEnd": 934
+    },
+    {
+      "tmdbId": "262375",
+      "type": "tv",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1426306",
+      "type": "movie",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1517772",
+      "type": "movie",
       "skipStart": 30,
       "skipEnd": 62
     },
     {
       "tmdbId": "294011",
+      "type": "tv",
       "skipStart": 30,
       "skipEnd": 62
     },
     {
-      "tmdbId": "1267905",
+      "tmdbId": "1284120",
+      "type": "movie",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1437446",
+      "type": "movie",
       "skipStart": 30,
       "skipEnd": 62
     },
     {
       "tmdbId": "230935",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "256721",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "1319738",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "262375",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "298620",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "285084",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "287131",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "233750",
+      "type": "tv",
       "skipStart": 30,
       "skipEnd": 62
     },
     {
       "tmdbId": "250178",
+      "type": "tv",
       "skipStart": 30,
       "skipEnd": 62
     },
     {
-      "tmdbId": "283197",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "290682",
+      "tmdbId": "1086497",
+      "type": "movie",
       "skipStart": 30,
       "skipEnd": 62
     },
     {
       "tmdbId": "285380",
+      "type": "tv",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "290682",
+      "type": "tv",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "256721",
+      "type": "tv",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1267905",
+      "type": "movie",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "285084",
+      "type": "tv",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1465549",
+      "type": "movie",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "287131",
+      "type": "tv",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "283197",
+      "type": "tv",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1404734",
+      "type": "movie",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1319738",
+      "type": "movie",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "298620",
+      "type": "tv",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "233750",
+      "type": "tv",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "289183",
+      "type": "tv",
       "skipStart": 30,
       "skipEnd": 62
     }
