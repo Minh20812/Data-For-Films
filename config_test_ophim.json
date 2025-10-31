@@ -1,6 +1,16 @@
 {
   "movies": [
     {
+      "tmdbId": "200875",
+      "type": "tv",
+      "nameVi": "Gã Hề Ma Quái: Chào Mừng Đến Derry",
+      "nameEn": "IT: Welcome to Derry",
+      "imdbId": "tt19244304",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
       "tmdbId": "1272166",
       "type": "movie",
       "nameVi": "Bản ballad của tay bạc nhỏ",
