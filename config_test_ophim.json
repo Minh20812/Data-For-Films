@@ -1,5 +1,55 @@
 {
   "movies": [
+     {
+      "tmdbId": "760329",
+      "type": "movie",
+      "nameVi": "Cuộc Đời Võ Sĩ",
+      "nameEn": "The Smashing Machine",
+      "imdbId": "tt11214558",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1550569",
+      "type": "movie",
+      "nameVi": "Aileen: Nữ hoàng sát nhân hàng loạt",
+      "nameEn": "Aileen: Queen of the Serial Killers",
+      "imdbId": "tt38457052",
+      "posterPath": "https://image.tmdb.org/t/p/w500/iBCorGTwpXhIOeWwTA21HC5Rprx.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1401905",
+      "type": "movie",
+      "nameVi": "Bryan Johnson: Người khao khát trường sinh",
+      "nameEn": "Don't Die: The Man Who Wants to Live Forever",
+      "imdbId": "tt34977130",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2M0CF7UsbpQ45xGuVRhExAhUWBj.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1197137",
+      "type": "movie",
+      "nameVi": "Điện Thoại Đen 2",
+      "nameEn": "Black Phone 2",
+      "imdbId": "tt29644189",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xUWUODKPIilQoFUzjHM6wKJkP3Y.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1151766",
+      "type": "movie",
+      "nameVi": "Phỏng Vấn Sát Nhân",
+      "nameEn": "Murderer Report",
+      "imdbId": "tt37718411",
+      "posterPath": "https://image.tmdb.org/t/p/w500/bZrX1VolCiL1abM7ahaarjQAmXL.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
     {
       "tmdbId": "207468",
       "type": "tv",
