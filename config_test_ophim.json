@@ -1,6 +1,6 @@
 {
   "movies": [
-     {
+    {
       "tmdbId": "303109",
       "type": "tv",
       "nameVi": "Fire and Water: Making the Avatar Films",
@@ -8,8 +8,14 @@
       "imdbId": "",
       "posterPath": "https://image.tmdb.org/t/p/w500/1Jv4WlLRA659DdZIXOR2f6hZGz8.jpg",
       "skipStart": 30,
-      "skipEnd": 62
-    }, 
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 2"
+      ],
+      "fullEp": [
+        "s1: 2"
+      ]
+    },
     {
       "tmdbId": "293613",
       "type": "tv",
@@ -18,7 +24,13 @@
       "imdbId": "",
       "posterPath": "https://image.tmdb.org/t/p/w500/osa3I6CuabnCEpNgFOvFMLLS7yP.jpg",
       "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 6"
+      ],
+      "fullEp": [
+        "s1: 12"
+      ]
     },
     {
       "tmdbId": "272418",
@@ -28,7 +40,13 @@
       "imdbId": "",
       "posterPath": "https://image.tmdb.org/t/p/w500/3teWChNzKJdbfen46IdeKTygdZa.jpg",
       "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 2"
+      ],
+      "fullEp": [
+        "s1: 10"
+      ]
     },
     {
       "tmdbId": "217528",
@@ -38,7 +56,13 @@
       "imdbId": "",
       "posterPath": "https://image.tmdb.org/t/p/w500/uz8xeDph9jD5JD3kGiktOcRwAI3.jpg",
       "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 1"
+      ],
+      "fullEp": [
+        "s1: 5"
+      ]
     },
     {
       "tmdbId": "1523431",
@@ -56,10 +80,10 @@
       "nameVi": "Frankenstein",
       "nameEn": "Frankenstein",
       "imdbId": "tt1312221",
-      "posterPath": "https://image.tmdb.org/t/p/w500/v9NLaLBbrkDwq44qG51v8T6sPuI.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jJ8AiqKKiZWZaiYMyhlF0FNH4xJ.jpg",
       "skipStart": 30,
       "skipEnd": 62
-    }, 
+    },
     {
       "tmdbId": "760329",
       "type": "movie",
@@ -118,7 +142,15 @@
       "imdbId": "",
       "posterPath": "https://image.tmdb.org/t/p/w500/bJxGs0w5RAhaX4fIUQu511rvm0S.jpg",
       "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 12",
+        "s2: 11"
+      ],
+      "fullEp": [
+        "s1: 23",
+        "s2: ???"
+      ]
     },
     {
       "tmdbId": "213611",
@@ -128,7 +160,13 @@
       "imdbId": "",
       "posterPath": "https://image.tmdb.org/t/p/w500/5S1xVcfCXPzBeAluiTWKGqwMmRz.jpg",
       "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 5"
+      ],
+      "fullEp": [
+        "s1: 5"
+      ]
     },
     {
       "tmdbId": "273212",
@@ -138,7 +176,13 @@
       "imdbId": "",
       "posterPath": "https://image.tmdb.org/t/p/w500/cCIhN5EWpf0h1qUspmoRCYIGGXo.jpg",
       "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 4"
+      ],
+      "fullEp": [
+        "s1: 4"
+      ]
     },
     {
       "tmdbId": "285657",
@@ -148,7 +192,13 @@
       "imdbId": "",
       "posterPath": "https://image.tmdb.org/t/p/w500/6VdRRweCibUqO7Wu9XShEmXSesH.jpg",
       "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 2"
+      ],
+      "fullEp": [
+        "s1: 2"
+      ]
     },
     {
       "tmdbId": "277685",
@@ -158,7 +208,13 @@
       "imdbId": "",
       "posterPath": "https://image.tmdb.org/t/p/w500/245axX0GN2QQE8KwXGKEvAVl1YP.jpg",
       "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 2"
+      ],
+      "fullEp": [
+        "s1: 2"
+      ]
     },
     {
       "tmdbId": "1488976",
@@ -235,10 +291,16 @@
       "type": "tv",
       "nameVi": "Gã Hề Ma Quái: Chào Mừng Đến Derry",
       "nameEn": "IT: Welcome to Derry",
-      "imdbId": "tt19244304",
-      "posterPath": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ycC53SEDcY7YDOSrFqPQigxaCyx.jpg",
       "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 2"
+      ],
+      "fullEp": [
+        "s1: 8"
+      ]
     },
     {
       "tmdbId": "1272166",
@@ -246,7 +308,7 @@
       "nameVi": "Bản ballad của tay bạc nhỏ",
       "nameEn": "Ballad of a Small Player",
       "imdbId": "tt32063098",
-      "posterPath": "https://image.tmdb.org/t/p/w500/iaFGmROCAyXsGQo7mqymqtOkwrU.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
       "skipStart": 30,
       "skipEnd": 62
     },
@@ -267,248 +329,40 @@
       "nameEn": "The Legend of Hei 2",
       "imdbId": "tt37284198",
       "posterPath": "https://image.tmdb.org/t/p/w500/l1Q7YzanazjJescEkSfcRuIj1hR.jpg",
-      "skipStart": 898,
-      "skipEnd": 930
-    },
-    {
-      "tmdbId": "298698",
-      "type": "tv",
-      "nameVi": "Hiện Trường Vụ Án Số 0",
-      "nameEn": "Crime Scene Zero",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/92l9QX3bclETQGXyB8dVf7igveI.jpg",
-      "skipStart": 28,
-      "skipEnd": 60
-    },
-    {
-      "tmdbId": "284445",
-      "type": "tv",
-      "nameVi": "Nguyên tội của Takopi",
-      "nameEn": "Takopi's Original Sin",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
       "skipStart": 30,
       "skipEnd": 62
     },
     {
-      "tmdbId": "286801",
+      "tmdbId": "283704",
       "type": "tv",
-      "nameVi": "Quái vật: Câu chuyện của Ed Gein",
-      "nameEn": "Monster: The Ed Gein Story",
+      "nameVi": "Ẩm Thực Của Fermat",
+      "nameEn": "Fermat Kitchen",
       "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2CrSIqyoZIVk0UsbBPaJlMkCxcM.jpg",
       "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 12"
+      ],
+      "fullEp": [
+        "s1: 12"
+      ]
     },
     {
-      "tmdbId": "285205",
+      "tmdbId": "262375",
       "type": "tv",
-      "nameVi": "Bí mật triệu đô",
-      "nameEn": "Million Dollar Secret",
+      "nameVi": "Chuyện dài tóm ngắn",
+      "nameEn": "Long Story Short",
       "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg",
-      "skipStart": 900,
-      "skipEnd": 932
-    },
-    {
-      "tmdbId": "620249",
-      "type": "movie",
-      "nameVi": "Huyền Thoại La Tiểu Hoắc",
-      "nameEn": "The Legend of Hei",
-      "imdbId": "tt10734928",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4jfbKKLpqts3i2h2obkrONcjTg1.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/22nh2kTuFpitrqTxxixhWjxEqFa.jpg",
       "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "252135",
-      "type": "tv",
-      "nameVi": "Hồi Hồn Kế",
-      "nameEn": "The Resurrected",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/l1bJ4lSl2pSMpCFpIhhKeT7N34a.jpg",
-      "skipStart": 28,
-      "skipEnd": 60
-    },
-    {
-      "tmdbId": "1086637",
-      "type": "movie",
-      "nameVi": "Loài tê tê: Hành trình của Kulu",
-      "nameEn": "Pangolin: Kulu's Journey",
-      "imdbId": "tt27931052",
-      "posterPath": "https://image.tmdb.org/t/p/w500/y4QH9sXtNXER9ReVtR0RZ97EcaG.jpg",
-      "skipStart": 902,
-      "skipEnd": 934
-    },
-    {
-      "tmdbId": "285084",
-      "type": "tv",
-      "nameVi": "Những cô gái mất tích: Sát nhân hàng loạt ở Long Island",
-      "nameEn": "Gone Girls: The Long Island Serial Killer",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vWTep5omXCxFtf5hlUc8VlmFI0u.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "225647",
-      "type": "tv",
-      "nameVi": "Tân Binh",
-      "nameEn": "Boots",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
-      "skipStart": 28,
-      "skipEnd": 60
-    },
-    {
-      "tmdbId": "283197",
-      "type": "tv",
-      "nameVi": "Án mạng nước Mỹ: Gabby Petito",
-      "nameEn": "American Murder: Gabby Petito",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/83PrIV5PH124m1sR4UIubm7E9sO.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "286198",
-      "type": "tv",
-      "nameVi": "Bậc Thầy Giải Hòa",
-      "nameEn": "Shin's Project",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/iiBkY6mrYWdyosaHtJQm0pFXyBt.jpg",
-      "skipStart": 28,
-      "skipEnd": 60
-    },
-    {
-      "tmdbId": "1290879",
-      "type": "movie",
-      "nameVi": "Người phụ nữ trong cabin 10",
-      "nameEn": "The Woman in Cabin 10",
-      "imdbId": "tt7130300",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "1296404",
-      "type": "movie",
-      "nameVi": "Tin tốt lành",
-      "nameEn": "Good News",
-      "imdbId": "tt33550069",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uA3o8q7JTym6lUM8pnITwQDfvhO.jpg",
-      "skipStart": 902,
-      "skipEnd": 933
-    },
-    {
-      "tmdbId": "1400782",
-      "type": "movie",
-      "nameVi": "Người Hàng Xóm Hoàn Hảo",
-      "nameEn": "The Perfect Neighbor",
-      "imdbId": "tt34962891",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg",
-      "skipStart": 901,
-      "skipEnd": 933
-    },
-    {
-      "tmdbId": "247756",
-      "type": "tv",
-      "nameVi": "Quái vật thành Florence",
-      "nameEn": "The Monster of Florence",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/1RRBxq1hEC7rKIp4yac96F9ObL5.jpg",
-      "skipStart": 901,
-      "skipEnd": 933
-    },
-    {
-      "tmdbId": "1484640",
-      "type": "movie",
-      "nameVi": "Swim to Me",
-      "nameEn": "Swim to Me",
-      "imdbId": "tt34682204",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5pkYUOyvxjAYlUpq4GDTp04gxMa.jpg",
-      "skipStart": 28,
-      "skipEnd": 60
-    },
-    {
-      "tmdbId": "15916",
-      "type": "movie",
-      "nameVi": "Trứng Thiên Thần",
-      "nameEn": "Angel's Egg",
-      "imdbId": "tt0208502",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dcEUGvckbePFzPKhGXnS9T3kZMG.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "1457515",
-      "type": "movie",
-      "nameVi": "Thunderbirds: Phi đội tinh nhuệ của không lực Mỹ",
-      "nameEn": "Air Force Elite: Thunderbirds",
-      "imdbId": "tt35628532",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uIOzHM90VlEAagZAgwjXSimll20.jpg",
-      "skipStart": 28,
-      "skipEnd": 60
-    },
-    {
-      "tmdbId": "1284120",
-      "type": "movie",
-      "nameVi": "Cắt Ngón Thử Hài",
-      "nameEn": "The Ugly Stepsister",
-      "imdbId": "tt29344903",
-      "posterPath": "https://image.tmdb.org/t/p/w500/crX9rSg9EohybhkEe8iTQUCe55y.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "250178",
-      "type": "tv",
-      "nameVi": "Cha Quên Con Nhớ",
-      "nameEn": "Forget You Not",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/31AboR0RNzyRM1aGhFO05rIVeme.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "285380",
-      "type": "tv",
-      "nameVi": "Vàng và lòng tham: Cuộc săn tìm kho báu của Fenn",
-      "nameEn": "Gold & Greed: The Hunt for Fenn's Treasure",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/svp5rLNIoe9XUewf2O2ZG6A6Fue.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "290682",
-      "type": "tv",
-      "nameVi": "Tiếng Vọng Của Người Sống Sót: Thảm Án Tại Hàn Quốc",
-      "nameEn": "The Echoes of Survivors: Inside Korea's Tragedies",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xhT5oPlsiPV8j5YAwLo12UIU6QS.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "1086497",
-      "type": "movie",
-      "nameVi": "Bài Học Từ Chú Chim Cánh Cụt",
-      "nameEn": "The Penguin Lessons",
-      "imdbId": "tt26677014",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uz7eucj2EgBLC0KVjkiCbVrvuX9.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "230935",
-      "type": "tv",
-      "nameVi": "Những Sinh Vật Hoang Dã - The Wild Ones",
-      "nameEn": "The Wild Ones",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ieU298y9GWvkETiLpcdPnlocuYu.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 10"
+      ],
+      "fullEp": [
+        "s1: 10"
+      ]
     },
     {
       "tmdbId": "256721",
@@ -518,17 +372,13 @@
       "imdbId": "",
       "posterPath": "https://image.tmdb.org/t/p/w500/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg",
       "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "294011",
-      "type": "tv",
-      "nameVi": "Đi  Tìm Cá Mập",
-      "nameEn": "All the Sharks",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/cUdDyEnpS27HhxkUeAsDWEJnRH4.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 16"
+      ],
+      "fullEp": [
+        "s1: 24"
+      ]
     },
     {
       "tmdbId": "298620",
@@ -538,15 +388,159 @@
       "imdbId": "",
       "posterPath": "https://image.tmdb.org/t/p/w500/omQ06GyWE8clsxcfL9q2YrQwzvy.jpg",
       "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 8"
+      ],
+      "fullEp": [
+        "s1: 8"
+      ]
+    },
+    {
+      "tmdbId": "290682",
+      "type": "tv",
+      "nameVi": "Tiếng Vọng Của Người Sống Sót: Thảm Án Tại Hàn Quốc",
+      "nameEn": "The Echoes of Survivors: Inside Korea's Tragedies",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xhT5oPlsiPV8j5YAwLo12UIU6QS.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 8"
+      ],
+      "fullEp": [
+        "s1: 8"
+      ]
+    },
+    {
+      "tmdbId": "250178",
+      "type": "tv",
+      "nameVi": "Cha Quên Con Nhớ",
+      "nameEn": "Forget You Not",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/31AboR0RNzyRM1aGhFO05rIVeme.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 8"
+      ],
+      "fullEp": [
+        "s1: 8"
+      ]
+    },
+    {
+      "tmdbId": "287131",
+      "type": "tv",
+      "nameVi": "Bertrand Cantat: Từ ngôi sao nhạc rock tới kẻ sát nhân",
+      "nameEn": "From Rock Star to Killer",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qWLgbzLEpYxYuli0NvaxQsOlKEd.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 3"
+      ],
+      "fullEp": [
+        "s1: 3"
+      ]
+    },
+    {
+      "tmdbId": "285380",
+      "type": "tv",
+      "nameVi": "Vàng và lòng tham: Cuộc săn tìm kho báu của Fenn",
+      "nameEn": "Gold & Greed: The Hunt for Fenn's Treasure",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/svp5rLNIoe9XUewf2O2ZG6A6Fue.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 3"
+      ],
+      "fullEp": [
+        "s1: 3"
+      ]
+    },
+    {
+      "tmdbId": "285084",
+      "type": "tv",
+      "nameVi": "Những cô gái mất tích: Sát nhân hàng loạt ở Long Island",
+      "nameEn": "Gone Girls: The Long Island Serial Killer",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vWTep5omXCxFtf5hlUc8VlmFI0u.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 3"
+      ],
+      "fullEp": [
+        "s1: 3"
+      ]
+    },
+    {
+      "tmdbId": "283197",
+      "type": "tv",
+      "nameVi": "Án mạng nước Mỹ: Gabby Petito",
+      "nameEn": "American Murder: Gabby Petito",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/83PrIV5PH124m1sR4UIubm7E9sO.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 3"
+      ],
+      "fullEp": [
+        "s1: 3"
+      ]
+    },
+    {
+      "tmdbId": "294011",
+      "type": "tv",
+      "nameVi": "Đi  Tìm Cá Mập",
+      "nameEn": "All the Sharks",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cUdDyEnpS27HhxkUeAsDWEJnRH4.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 6"
+      ],
+      "fullEp": [
+        "s1: 6"
+      ]
+    },
+    {
+      "tmdbId": "230935",
+      "type": "tv",
+      "nameVi": "Những Sinh Vật Hoang Dã - The Wild Ones",
+      "nameEn": "The Wild Ones",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ieU298y9GWvkETiLpcdPnlocuYu.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 6"
+      ],
+      "fullEp": [
+        "s1: 6"
+      ]
+    },
+    {
+      "tmdbId": "1267905",
+      "type": "movie",
+      "nameVi": "Hoa Hồng Có Gai",
+      "nameEn": "The Roses",
+      "imdbId": "tt31973693",
+      "posterPath": "https://image.tmdb.org/t/p/w500/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg",
+      "skipStart": 30,
       "skipEnd": 62
     },
     {
-      "tmdbId": "262375",
-      "type": "tv",
-      "nameVi": "Chuyện dài tóm ngắn",
-      "nameEn": "Long Story Short",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/22nh2kTuFpitrqTxxixhWjxEqFa.jpg",
+      "tmdbId": "1319738",
+      "type": "movie",
+      "nameVi": "向阳·花",
+      "nameEn": "We Girls",
+      "imdbId": "tt33014921",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kEwqo3MUkvs16LCyIuBNnBvLWqm.jpg",
       "skipStart": 30,
       "skipEnd": 62
     },
@@ -571,32 +565,12 @@
       "skipEnd": 62
     },
     {
-      "tmdbId": "1267905",
+      "tmdbId": "1465549",
       "type": "movie",
-      "nameVi": "Hoa Hồng Có Gai",
-      "nameEn": "The Roses",
-      "imdbId": "tt31973693",
-      "posterPath": "https://image.tmdb.org/t/p/w500/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "283704",
-      "type": "tv",
-      "nameVi": "フェルマーの料理",
-      "nameEn": "Fermat Kitchen",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2CrSIqyoZIVk0UsbBPaJlMkCxcM.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "287131",
-      "type": "tv",
-      "nameVi": "Bertrand Cantat: Từ ngôi sao nhạc rock tới kẻ sát nhân",
-      "nameEn": "From Rock Star to Killer",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qWLgbzLEpYxYuli0NvaxQsOlKEd.jpg",
+      "nameVi": "Bodyguard of Lies",
+      "nameEn": "Bodyguard of Lies",
+      "imdbId": "tt36589896",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lieTTypMoODThbgRcRu76VqVoXS.jpg",
       "skipStart": 30,
       "skipEnd": 62
     },
@@ -611,22 +585,12 @@
       "skipEnd": 62
     },
     {
-      "tmdbId": "1319738",
+      "tmdbId": "1284120",
       "type": "movie",
-      "nameVi": "向阳·花",
-      "nameEn": "We Girls",
-      "imdbId": "tt33014921",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kEwqo3MUkvs16LCyIuBNnBvLWqm.jpg",
-      "skipStart": 30,
-      "skipEnd": 62
-    },
-    {
-      "tmdbId": "1465549",
-      "type": "movie",
-      "nameVi": "Bodyguard of Lies",
-      "nameEn": "Bodyguard of Lies",
-      "imdbId": "tt36589896",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lieTTypMoODThbgRcRu76VqVoXS.jpg",
+      "nameVi": "Cắt Ngón Thử Hài",
+      "nameEn": "The Ugly Stepsister",
+      "imdbId": "tt29344903",
+      "posterPath": "https://image.tmdb.org/t/p/w500/rayAREIKtSinuov10GvrZHyXfXH.jpg",
       "skipStart": 30,
       "skipEnd": 62
     },
@@ -639,6 +603,224 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mSVJI9P5UmvOLZVTH8sAtlgxsgy.jpg",
       "skipStart": 30,
       "skipEnd": 62
+    },
+    {
+      "tmdbId": "1086497",
+      "type": "movie",
+      "nameVi": "Bài Học Từ Chú Chim Cánh Cụt",
+      "nameEn": "The Penguin Lessons",
+      "imdbId": "tt26677014",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uz7eucj2EgBLC0KVjkiCbVrvuX9.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "620249",
+      "type": "movie",
+      "nameVi": "Huyền Thoại La Tiểu Hoắc",
+      "nameEn": "The Legend of Hei",
+      "imdbId": "tt10734928",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4jfbKKLpqts3i2h2obkrONcjTg1.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "15916",
+      "type": "movie",
+      "nameVi": "Trứng Thiên Thần",
+      "nameEn": "Angel's Egg",
+      "imdbId": "tt0208502",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dcEUGvckbePFzPKhGXnS9T3kZMG.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1457515",
+      "type": "movie",
+      "nameVi": "Thunderbirds: Phi đội tinh nhuệ của không lực Mỹ",
+      "nameEn": "Air Force Elite: Thunderbirds",
+      "imdbId": "tt35628532",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uIOzHM90VlEAagZAgwjXSimll20.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1400782",
+      "type": "movie",
+      "nameVi": "Người Hàng Xóm Hoàn Hảo",
+      "nameEn": "The Perfect Neighbor",
+      "imdbId": "tt34962891",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1086637",
+      "type": "movie",
+      "nameVi": "Loài tê tê: Hành trình của Kulu",
+      "nameEn": "Pangolin: Kulu's Journey",
+      "imdbId": "tt27931052",
+      "posterPath": "https://image.tmdb.org/t/p/w500/y4QH9sXtNXER9ReVtR0RZ97EcaG.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "225647",
+      "type": "tv",
+      "nameVi": "Tân binh",
+      "nameEn": "Boots",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 8"
+      ],
+      "fullEp": [
+        "s1: 8"
+      ]
+    },
+    {
+      "tmdbId": "252135",
+      "type": "tv",
+      "nameVi": "Hồi Hồn Kế",
+      "nameEn": "The Resurrected",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/l1bJ4lSl2pSMpCFpIhhKeT7N34a.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 9"
+      ],
+      "fullEp": [
+        "s1: 9"
+      ]
+    },
+    {
+      "tmdbId": "247756",
+      "type": "tv",
+      "nameVi": "Quái vật thành Florence",
+      "nameEn": "The Monster of Florence",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1RRBxq1hEC7rKIp4yac96F9ObL5.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 4"
+      ],
+      "fullEp": [
+        "s1: 4"
+      ]
+    },
+    {
+      "tmdbId": "1484640",
+      "type": "movie",
+      "nameVi": "Swim to Me",
+      "nameEn": "Swim to Me",
+      "imdbId": "tt34682204",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5pkYUOyvxjAYlUpq4GDTp04gxMa.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1290879",
+      "type": "movie",
+      "nameVi": "Người phụ nữ trong cabin 10",
+      "nameEn": "The Woman in Cabin 10",
+      "imdbId": "tt7130300",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "298698",
+      "type": "tv",
+      "nameVi": "Hiện Trường Vụ Án Số 0",
+      "nameEn": "Crime Scene Zero",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/92l9QX3bclETQGXyB8dVf7igveI.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 10"
+      ],
+      "fullEp": [
+        "s1: 10"
+      ]
+    },
+    {
+      "tmdbId": "285205",
+      "type": "tv",
+      "nameVi": "Bí mật triệu đô",
+      "nameEn": "Million Dollar Secret",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 8"
+      ],
+      "fullEp": [
+        "s1: 8"
+      ]
+    },
+    {
+      "tmdbId": "284445",
+      "type": "tv",
+      "nameVi": "Nguyên tội của Takopi",
+      "nameEn": "Takopi's Original Sin",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 6"
+      ],
+      "fullEp": [
+        "s1: 6"
+      ]
+    },
+    {
+      "tmdbId": "286198",
+      "type": "tv",
+      "nameVi": "Bậc Thầy Giải Hòa",
+      "nameEn": "Shin's Project",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/iiBkY6mrYWdyosaHtJQm0pFXyBt.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 1"
+      ],
+      "fullEp": [
+        "s1: 12"
+      ]
+    },
+    {
+      "tmdbId": "1296404",
+      "type": "movie",
+      "nameVi": "Tin tốt lành",
+      "nameEn": "Good News",
+      "imdbId": "tt33550069",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uA3o8q7JTym6lUM8pnITwQDfvhO.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "286801",
+      "type": "tv",
+      "nameVi": "Quái vật: Câu chuyện của Ed Gein",
+      "nameEn": "Monster: The Ed Gein Story",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 8"
+      ],
+      "fullEp": [
+        "s1: 8"
+      ]
     }
   ]
 }
