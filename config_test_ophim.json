@@ -1,6 +1,42 @@
 {
   "movies": [
     {
+      "tmdbId": "107113",
+      "type": "tv",
+      "nameVi": "Những Vụ Án Mạng Trong Chung Cư",
+      "nameEn": "Only Murders in the Building",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s5: 10"
+      ],
+      "fullEp": [
+        "s1: 10",
+        "s2: 10",
+        "s3: 10",
+        "s4: 10",
+        "s5: 10"
+      ]
+    },
+    {
+      "tmdbId": "291361",
+      "type": "tv",
+      "nameVi": "Đấu Trường Ẩm Thực: Hành Trình Vươn Tới Sao Michelin - Knife Edge: Chasing Michelin Stars",
+      "nameEn": "Knife Edge: Chasing Michelin Stars",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/sCdkFjh3o1wW2Wd82IHG6gXBA3D.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 6"
+      ],
+      "fullEp": [
+        "s1: 8"
+      ]
+    },
+    {
       "tmdbId": "303109",
       "type": "tv",
       "nameVi": "Fire and Water: Making the Avatar Films",
@@ -80,7 +116,7 @@
       "nameVi": "Frankenstein",
       "nameEn": "Frankenstein",
       "imdbId": "tt1312221",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jJ8AiqKKiZWZaiYMyhlF0FNH4xJ.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
       "skipStart": 30,
       "skipEnd": 62
     },
@@ -292,7 +328,7 @@
       "nameVi": "Gã Hề Ma Quái: Chào Mừng Đến Derry",
       "nameEn": "IT: Welcome to Derry",
       "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ycC53SEDcY7YDOSrFqPQigxaCyx.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
       "skipStart": 30,
       "skipEnd": 62,
       "narratived": [
@@ -567,7 +603,7 @@
     {
       "tmdbId": "1465549",
       "type": "movie",
-      "nameVi": "Bodyguard of Lies",
+      "nameVi": "Lá Chắn Dối Trá",
       "nameEn": "Bodyguard of Lies",
       "imdbId": "tt36589896",
       "posterPath": "https://image.tmdb.org/t/p/w500/lieTTypMoODThbgRcRu76VqVoXS.jpg",
