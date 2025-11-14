@@ -1,6 +1,58 @@
 {
   "movies": [
     {
+      "tmdbId": "301001",
+      "type": "tv",
+      "nameVi": "Mrs Playmen",
+      "nameEn": "Mrs Playmen",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/aLwRvsuKhMjrCrAUUuw61cSuiOi.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 7"
+      ],
+      "fullEp": [
+        "s1: 7"
+      ]
+    },
+    {
+      "tmdbId": "252193",
+      "type": "tv",
+      "nameVi": "Ikusagami: Chiến thần samurai",
+      "nameEn": "Last Samurai Standing",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/d3K7mugQwGdWf1Q9Fnb0m8y1Mng.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 6"
+      ],
+      "fullEp": [
+        "s1: 6"
+      ]
+    },
+    {
+      "tmdbId": "1564346",
+      "type": "movie",
+      "nameVi": "Eloá Pimentel: Con Tin Trên Truyền Hình Trực Tiếp",
+      "nameEn": "Eloá the Hostage: Live on TV",
+      "imdbId": "tt38772659",
+      "posterPath": "https://image.tmdb.org/t/p/w500/iiXW7L30x4U89VEyTRmxkIM0lrN.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1429738",
+      "type": "movie",
+      "nameVi": "Tee Yai: Tính Bản Ác",
+      "nameEn": "Tee Yai: Born to Be Bad",
+      "imdbId": "tt35669044",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ig00LBM2rv4fmCJOPATyRWOJnlL.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
       "tmdbId": "107113",
       "type": "tv",
       "nameVi": "Những Vụ Án Mạng Trong Chung Cư",
