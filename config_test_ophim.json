@@ -1,6 +1,81 @@
 {
   "movies": [
     {
+      "tmdbId": "241576",
+      "type": "tv",
+      "nameVi": "Nếu Ta Chưa Từng Thấy Thái Dương",
+      "nameEn": "Had I Not Seen the Sun",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uY4ETb9evtpvjJiXKpgh21cOBno.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 10"
+      ],
+      "fullEp": [
+        "s1: 10",
+        "s2: 1"
+      ]
+    },
+    {
+      "tmdbId": "283392",
+      "type": "tv",
+      "nameVi": "Bí Quyết Trúng Số",
+      "nameEn": "How to Win the Lottery",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2frfO6pr8i1Oh1iakIFRrLQGEK9.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 6"
+      ],
+      "fullEp": [
+        "s1: 6"
+      ]
+    },
+    {
+      "tmdbId": "217528",
+      "type": "tv",
+      "nameVi": "Heweliusz",
+      "nameEn": "Heweliusz",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ue1WFzdWXlqR0uKOX2O2KNHjRtj.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 5"
+      ],
+      "fullEp": [
+        "s1: 5"
+      ]
+    },
+    {
+      "tmdbId": "301449",
+      "type": "tv",
+      "nameVi": "Gieo Gì Gặt Nấy - Ngoại Truyện Mexico",
+      "nameEn": "GBRB: Joy Pops Laugh Pops",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xOoPFgxJwh4yzus34v29FY0sf34.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 4"
+      ],
+      "fullEp": [
+        "s1: 9"
+      ]
+    },
+    {
+      "tmdbId": "1054867",
+      "type": "movie",
+      "nameVi": "Trận Chiến Sau Trận Chiến",
+      "nameEn": "One Battle After Another",
+      "imdbId": "tt30144839",
+      "posterPath": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
       "tmdbId": "301001",
       "type": "tv",
       "nameVi": "Mrs Playmen",
@@ -22,7 +97,7 @@
       "nameVi": "Ikusagami: Chiến thần samurai",
       "nameEn": "Last Samurai Standing",
       "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/d3K7mugQwGdWf1Q9Fnb0m8y1Mng.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cZDJ5pAVmQs5c84my2bAhT3fbh8.jpg",
       "skipStart": 30,
       "skipEnd": 62,
       "narratived": [
@@ -137,22 +212,6 @@
       ]
     },
     {
-      "tmdbId": "217528",
-      "type": "tv",
-      "nameVi": "Heweliusz",
-      "nameEn": "Heweliusz",
-      "imdbId": "",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uz8xeDph9jD5JD3kGiktOcRwAI3.jpg",
-      "skipStart": 30,
-      "skipEnd": 62,
-      "narratived": [
-        "s1: 1"
-      ],
-      "fullEp": [
-        "s1: 5"
-      ]
-    },
-    {
       "tmdbId": "1523431",
       "type": "movie",
       "nameVi": "Kopitiam Days",
@@ -178,7 +237,7 @@
       "nameVi": "Cuộc Đời Võ Sĩ",
       "nameEn": "The Smashing Machine",
       "imdbId": "tt11214558",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qTcYr3uTIjkmTGG4IFZY2zRo0nc.jpg",
       "skipStart": 30,
       "skipEnd": 62
     },
