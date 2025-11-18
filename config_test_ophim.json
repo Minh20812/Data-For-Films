@@ -1,6 +1,38 @@
 {
   "movies": [
     {
+      "tmdbId": "301991",
+      "type": "tv",
+      "nameVi": "Kingdom",
+      "nameEn": "Kingdom",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/f4tG5gMbPNDPtZ3QMB8lq6oBXaT.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 6"
+      ],
+      "fullEp": [
+        "s1: 6"
+      ]
+    },
+    {
+      "tmdbId": "247045",
+      "type": "tv",
+      "nameVi": "Nyaight of the Living Cat - Đi Đêm Lắm Có Ngày Gặp Mèo",
+      "nameEn": "Nyaight of the Living Cat",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8RK3ejKdkw5KrUNzcURiwGpi9xO.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 1"
+      ],
+      "fullEp": [
+        "s1: 12"
+      ]
+    },
+    {
       "tmdbId": "241576",
       "type": "tv",
       "nameVi": "Nếu Ta Chưa Từng Thấy Thái Dương",
