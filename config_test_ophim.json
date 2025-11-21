@@ -1,6 +1,94 @@
 {
   "movies": [
     {
+      "tmdbId": "245312",
+      "type": "tv",
+      "nameVi": "Điệp viên lão làng",
+      "nameEn": "A Man on the Inside",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/c09XdTLpLku2tqHt158NZBgC4hi.jpg",
+      "skipStart": 30,
+      "skipEnd": 62,
+      "narratived": [
+        "s1: 8",
+        "s2: 8"
+      ],
+      "fullEp": [
+        "s1: 8",
+        "s2: 8"
+      ]
+    },
+    {
+      "tmdbId": "1559760",
+      "type": "movie",
+      "nameVi": "Thoughts & Prayers",
+      "nameEn": "Thoughts & Prayers",
+      "imdbId": "tt38633124",
+      "posterPath": "https://image.tmdb.org/t/p/w500/y9GzO4jCjpurBWvgGp6clqdSK1G.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1479945",
+      "type": "movie",
+      "nameVi": "Wicked: One Wonderful Night",
+      "nameEn": "Wicked: One Wonderful Night",
+      "imdbId": "tt36963991",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vI8gfZVhPnYo0gjK6vSP7p3idpV.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1419406",
+      "type": "movie",
+      "nameVi": "Bổ Phong Truy Ảnh",
+      "nameEn": "The Shadow's Edge",
+      "imdbId": "",
+      "posterPath": "https://image.tmdb.org/t/p/w500/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1363282",
+      "type": "movie",
+      "nameVi": "Bí ẩn gia đình Carman",
+      "nameEn": "The Carman Family Deaths",
+      "imdbId": "tt31137117",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yFc6F5PmAIdqpAU9wReCqLHWwMm.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1323475",
+      "type": "movie",
+      "nameVi": "Rắc rối sâm panh",
+      "nameEn": "Champagne Problems",
+      "imdbId": "tt33053440",
+      "posterPath": "https://image.tmdb.org/t/p/w500/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1299209",
+      "type": "movie",
+      "nameVi": "Con trai của ngàn người cha",
+      "nameEn": "The Son of a Thousand Men",
+      "imdbId": "tt33402908",
+      "posterPath": "https://image.tmdb.org/t/p/w500/fFrD7rUXChaYhppVGOEoYPG4E3q.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
+      "tmdbId": "1160360",
+      "type": "movie",
+      "nameVi": "Nếu Tôi Có Chân, Tôi Sẽ Đá Cô",
+      "nameEn": "If I Had Legs I'd Kick You",
+      "imdbId": "tt18382850",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gkIFK1HzqfgQg4v4ifeNKogHtPG.jpg",
+      "skipStart": 30,
+      "skipEnd": 62
+    },
+    {
       "tmdbId": "301991",
       "type": "tv",
       "nameVi": "Kingdom",
